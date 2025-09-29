@@ -1,4 +1,4 @@
-const restaurants = [
+[
     { id: "bestija", name: "Beštija", lat: 45.81088460553772, lng: 15.972906255824364 },
     { id: "kiyomi", name: "Kiyomi", lat: 45.811118339792365, lng: 15.976377957670254 },
     { id: "forty-two", name: "Forty Two", lat: 45.80687410111366, lng: 15.980170271164871 },
@@ -48,4 +48,4 @@ const restaurants = [
     { id: "bistro-apetit-by-marin-rendic", name: "Bistro Apetit by Marin Rendić", lat: 45.83120762041344, lng: 15.974879255824364 },
     { id: "baltazar-2-0", name: "Baltazar 2.0", lat: 45.819211150988316, lng: 15.978411371164876 },
     { id: "baltazar", name: "Baltazar", lat: 45.81922610536739, lng: 15.978443557670259 }
-    ];
+    ]

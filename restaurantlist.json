@@ -1,5 +1,4 @@
-// Restaurant List JSON
-    const restaurants = [
+const restaurants = [
     { id: "bestija", name: "Beštija", lat: 45.81088460553772, lng: 15.972906255824364 },
     { id: "kiyomi", name: "Kiyomi", lat: 45.811118339792365, lng: 15.976377957670254 },
     { id: "forty-two", name: "Forty Two", lat: 45.80687410111366, lng: 15.980170271164871 },

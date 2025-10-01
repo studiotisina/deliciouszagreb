@@ -1,0 +1,373 @@
+[
+  {
+    "id": "201-studio",
+    "name": "201 studio",
+    "mapsUrl": "https://maps.app.goo.gl/toDaSJLRSLGeyFqP7",
+    "lat": 45.81776857048228,
+    "lng": 15.996656826986884
+  },
+  {
+    "id": "a-world-class-steakhouse-from-novi-zagreb",
+    "name": "Marble",
+    "mapsUrl": "https://maps.app.goo.gl/mRnX1nDdMcQpihAGA",
+    "lat": 45.81064658865226,
+    "lng": 15.974880499999998
+  },
+  {
+    "id": "arigato-by-hrvoje",
+    "name": "Arigato by Hrvoje",
+    "mapsUrl": "https://maps.app.goo.gl/mRnX1nDdMcQpihAGA",
+    "lat": 45.81064658865226,
+    "lng": 15.974880499999998
+  },
+  {
+    "id": "balance-brunch",
+    "name": "Balance Brunch",
+    "mapsUrl": "https://maps.app.goo.gl/cQcxDDW1yc44v6URA",
+    "lat": 45.82514930780528,
+    "lng": 15.985253544175634
+  },
+  {
+    "id": "balon",
+    "name": "Balon",
+    "mapsUrl": "https://maps.app.goo.gl/aLknG5gyPdRPKrXi6",
+    "lat": 45.79010551380485,
+    "lng": 15.960110271164874
+  },
+  {
+    "id": "barbeerian-bbq-and-beer",
+    "name": "Barbeerian BBQ and beer",
+    "mapsUrl": "https://maps.app.goo.gl/eHA8afoT83Dm9a1j7",
+    "lat": 45.81629310705569,
+    "lng": 15.9771771
+  },
+  {
+    "id": "batak-grill",
+    "name": "Batak Grill",
+    "mapsUrl": "https://maps.app.goo.gl/oLLz4YC5NdNcTPbJ7",
+    "lat": 45.81766274183428,
+    "lng": 15.976354583891329
+  },
+  {
+    "id": "bekal-zagreb",
+    "name": "Bekal Zagreb",
+    "mapsUrl": "https://maps.app.goo.gl/v1QT8SquPi3YKFYG6",
+    "lat": 45.80180866936007,
+    "lng": 15.94883058465949
+  },
+  {
+    "id": "bestija",
+    "name": "Beštija",
+    "mapsUrl": "https://maps.app.goo.gl/oEQVmBsAQS7u69878",
+    "lat": 45.81088460553772,
+    "lng": 15.972906255824364
+  },
+  {
+    "id": "biomania",
+    "name": "BioMania",
+    "mapsUrl": "https://maps.app.goo.gl/f4A3SLLPEM8iaEZC8",
+    "lat": 45.81822321463972,
+    "lng": 15.976151942328965
+  },
+  {
+    "id": "bistro-96",
+    "name": "Bistro 96",
+    "mapsUrl": "https://maps.app.goo.gl/NKUpeGMQBCn5USGy5",
+    "lat": 45.81789135711584,
+    "lng": 16.009046915342076
+  },
+  {
+    "id": "bistro-tockica",
+    "name": "Bistro Točkica",
+    "mapsUrl": "https://maps.app.goo.gl/kUUWTRd3AzRJi6c88",
+    "lat": 45.79522288167565,
+    "lng": 15.932279326219254
+  },
+  {
+    "id": "bistro-and-bakery-salo",
+    "name": "Bistro and bakery Salo",
+    "mapsUrl": "https://maps.app.goo.gl/hJx99qvPpFBS2L3SA",
+    "lat": 45.81499858311437,
+    "lng": 15.977412259516145
+  },
+  {
+    "id": "bold-burger",
+    "name": "Bold Burger",
+    "mapsUrl": "https://maps.app.goo.gl/HCEf9Y3oYSZTBAPk8",
+    "lat": 45.81279860509195,
+    "lng": 15.965623084657922
+  },
+  {
+    "id": "boogie-lab",
+    "name": "Boogie Lab",
+    "mapsUrl": "https://maps.app.goo.gl/edHYqTyahajFg6Zs7",
+    "lat": 45.80779205656293,
+    "lng": 15.987372771164877
+  },
+  {
+    "id": "bota-sare",
+    "name": "Bota Šare",
+    "mapsUrl": "https://maps.app.goo.gl/RLgtwWdeygXc1NLf7",
+    "lat": 45.81460273378483,
+    "lng": 16.00801167116448
+  },
+  {
+    "id": "chopstix",
+    "name": "CHOPSTIX",
+    "mapsUrl": "https://maps.app.goo.gl/jkib5QgCgiUXR2fp6",
+    "lat": 45.77942710317646,
+    "lng": 15.983570857671037
+  },
+  {
+    "id": "cato-bar-taqueria",
+    "name": "Cato Bar & Taqueria",
+    "mapsUrl": "https://maps.app.goo.gl/4srM529d8LGT8XLP9",
+    "lat": 45.81367454356496,
+    "lng": 15.990386259516148
+  },
+  {
+    "id": "crna-ovca",
+    "name": "Crna Ovca",
+    "mapsUrl": "https://maps.app.goo.gl/Gpeyu1o8fdU193up7",
+    "lat": 45.8123426843253,
+    "lng": 15.987987273013117
+  },
+  {
+    "id": "dante-tapas-more",
+    "name": "Dante Tapas & More",
+    "mapsUrl": "https://maps.app.goo.gl/AXtkwBSgcRz53ETd7",
+    "lat": 45.81163251234773,
+    "lng": 15.968363657670254
+  },
+  {
+    "id": "eggspress",
+    "name": "Eggspress",
+    "mapsUrl": "https://maps.app.goo.gl/J853931caxZNhVRs6",
+    "lat": 45.81150130384026,
+    "lng": 15.994394271164872
+  },
+  {
+    "id": "el-toro",
+    "name": "El Toro",
+    "mapsUrl": "https://maps.app.goo.gl/aZP3qn3pVCDRhRVD9",
+    "lat": 45.81150130384026,
+    "lng": 15.994394271164872
+  },
+  {
+    "id": "forty-two",
+    "name": "Forty Two",
+    "mapsUrl": "https://maps.app.goo.gl/XUFwnpSyayDfjrei6",
+    "lat": 45.80687410111366,
+    "lng": 15.980170271164871
+  },
+  {
+    "id": "frankos-pizza-bar",
+    "name": "Franko’s pizza & bar",
+    "mapsUrl": "https://maps.app.goo.gl/2LVQFFcC5r4WSk558",
+    "lat": 45.80813990157837,
+    "lng": 15.998348759519669
+  },
+  {
+    "id": "gostionica-restoran-purger",
+    "name": "Gostionica Restoran Purger",
+    "mapsUrl": "https://maps.app.goo.gl/K4m3SfduQJ2c7TpG7",
+    "lat": 45.81023899546219,
+    "lng": 15.980336701848628
+  },
+  {
+    "id": "karijola",
+    "name": "Karijola",
+    "mapsUrl": "https://maps.app.goo.gl/yFDB8GYvrc9qKfyp9",
+    "lat": 45.81442461654312,
+    "lng": 15.98493788573978
+  },
+  {
+    "id": "kiyomi",
+    "name": "Kiyomi",
+    "mapsUrl": "https://maps.app.goo.gl/XXTXBQBCMhzYDaPLA",
+    "lat": 45.811118339792365,
+    "lng": 15.976377957670254
+  },
+  {
+    "id": "le-bistro-esplanade",
+    "name": "Le Bistro Esplanade",
+    "mapsUrl": "https://goo.gl/maps/rfHSaU3eXcnWAjeW6",
+    "lat": 45.80559010395805,
+    "lng": 15.975535613494618
+  },
+  {
+    "id": "leon-hot-pot",
+    "name": "Leon hot pot",
+    "mapsUrl": "https://maps.app.goo.gl/JJdeFgXo9T95iZXDA",
+    "lat": 45.80108608412152,
+    "lng": 16.01473049738401
+  },
+  {
+    "id": "mala-riba",
+    "name": "Mala riba",
+    "mapsUrl": "https://maps.app.goo.gl/GY4YRaJVnctWov6N6",
+    "lat": 45.786862865057344,
+    "lng": 15.915440199231943
+  },
+  {
+    "id": "maredo",
+    "name": "Maredo",
+    "mapsUrl": "https://goo.gl/maps/rg56bMp1KyjuXstUA",
+    "lat": 45.80559010395805,
+    "lng": 15.975535613494618
+  },
+  {
+    "id": "marelica-art-latte",
+    "name": "Marelica Art Latte",
+    "mapsUrl": "https://maps.app.goo.gl/EPaf4TvBuMQAswHx9",
+    "lat": 45.80922654916327,
+    "lng": 15.980326285739508
+  },
+  {
+    "id": "matsu",
+    "name": "Matsu",
+    "mapsUrl": "https://maps.app.goo.gl/Btxk21AN7qjefASM7",
+    "lat": 45.815763205594806,
+    "lng": 15.944631576702545
+  },
+  {
+    "id": "masklin-i-lata",
+    "name": "Mašklin i lata",
+    "mapsUrl": "https://maps.app.goo.gl/Te1QQeVEcdpBaEx99",
+    "lat": 45.80923158457401,
+    "lng": 15.97493373971339
+  },
+  {
+    "id": "melt",
+    "name": "Melt",
+    "mapsUrl": "https://maps.app.goo.gl/SkrE8xMyXLKvBKvaA",
+    "lat": 45.81174468535775,
+    "lng": 15.968363657670254
+  },
+  {
+    "id": "mlincek-koncept",
+    "name": "Mlinček Koncept",
+    "mapsUrl": "https://maps.app.goo.gl/X3RHRPC1xZ37bY1Q6",
+    "lat": 45.81024052889536,
+    "lng": 15.942338086505378
+  },
+  {
+    "id": "neka-jedu-kolace",
+    "name": "Neka jedu kolače",
+    "mapsUrl": "https://maps.app.goo.gl/54QprziHxTzJdtmX9",
+    "lat": 45.8155317797878,
+    "lng": 15.99317747039778
+  },
+  {
+    "id": "nico-s-bistro",
+    "name": "Nico's Bistro",
+    "mapsUrl": "https://maps.app.goo.gl/RZ89U3vfaRArxbZu5",
+    "lat": 45.813138740630514,
+    "lng": 15.979446453973772
+  },
+  {
+    "id": "otto-frank",
+    "name": "OTTO & FRANK",
+    "mapsUrl": "https://maps.app.goo.gl/vFcayMDFki8S3bgdA",
+    "lat": 45.81530107643055,
+    "lng": 15.976440013493445
+  },
+  {
+    "id": "pizza-priksa",
+    "name": "Pizza Priksa",
+    "mapsUrl": "https://maps.app.goo.gl/d22Yx2iVTWUy7D8m7",
+    "lat": 45.79796620075753,
+    "lng": 15.901732665065568
+  },
+  {
+    "id": "skenderica-1912",
+    "name": "Skenderica 1912",
+    "mapsUrl": "https://maps.app.goo.gl/9AT44KgwmenTKtjb6",
+    "lat": 45.8528348716267,
+    "lng": 15.98709285397847
+  },
+  {
+    "id": "sol-tapas-the-croatian-way",
+    "name": "Sol – tapas, the Croatian way",
+    "mapsUrl": "https://maps.app.goo.gl/Re3taGhCcoZEzY5u7",
+    "lat": 45.81237583115762,
+    "lng": 15.978905384657924
+  },
+  {
+    "id": "spud-bud",
+    "name": "Spud Bud",
+    "mapsUrl": "https://maps.app.goo.gl/LRQhvTqANSKzDWas7",
+    "lat": 45.81233746400141,
+    "lng": 15.975888428835525
+  },
+  {
+    "id": "superplanty",
+    "name": "Superplanty",
+    "mapsUrl": "https://maps.app.goo.gl/gaqPXmtKA4ykLzQR7",
+    "lat": 45.81070916336258,
+    "lng": 15.95756553874998
+  },
+  {
+    "id": "tender-cocktail-kitchen-club",
+    "name": "TENDER COCKTAIL & KITCHEN CLUB",
+    "mapsUrl": "https://maps.app.goo.gl/cLuKRySRNs5eNCn99",
+    "lat": 45.81082895697986,
+    "lng": 15.98617676441776
+  },
+  {
+    "id": "takenoko",
+    "name": "Takenoko",
+    "mapsUrl": "https://maps.app.goo.gl/Tqrrd9goABZqRRe59",
+    "lat": 45.8098565478945,
+    "lng": 15.9744379280685
+  },
+  {
+    "id": "tao-ramen",
+    "name": "Tao Ramen",
+    "mapsUrl": "https://maps.app.goo.gl/7tVkwC1NRkAm6QGo8",
+    "lat": 45.79035882011296,
+    "lng": 15.928461530998671
+  },
+  {
+    "id": "tomassino",
+    "name": "Tomassino",
+    "mapsUrl": "https://maps.app.goo.gl/LeVvErxe9cgt7eZa9",
+    "lat": 45.80770439267594,
+    "lng": 15.98461555593988
+  },
+  {
+    "id": "trattoria-gola",
+    "name": "Trattoria Gola",
+    "mapsUrl": "https://maps.app.goo.gl/TJ1g1etupUr858878",
+    "lat": 45.80663305128616,
+    "lng": 15.95839985098812
+  },
+  {
+    "id": "wirtshaus",
+    "name": "Wirtshaus",
+    "mapsUrl": "https://maps.app.goo.gl/tY1Ys47a3quBvxEV9",
+    "lat": 45.857525489690296,
+    "lng": 15.975806773013115
+  },
+  {
+    "id": "yezi",
+    "name": "Yezi",
+    "mapsUrl": "https://maps.app.goo.gl/ZduVLzegogyBVWNo8",
+    "lat": 45.811697922400974,
+    "lng": 15.980232943410687
+  },
+  {
+    "id": "zrno",
+    "name": "Zrno",
+    "mapsUrl": "https://maps.app.goo.gl/fnVDu8X6rP51quC59",
+    "lat": 45.81126440449232,
+    "lng": 15.966613055824364
+  },
+  {
+    "id": "strukli-to-go",
+    "name": "Štrukli TO GO",
+    "mapsUrl": "https://maps.app.goo.gl/FCiKAshurp2Ywjk76",
+    "lat": 45.8134510559998,
+    "lng": 15.956813069435086
+  }
+]

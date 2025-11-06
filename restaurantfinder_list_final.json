@@ -1,5 +1,19 @@
 [
   {
+    "id": "cynic",
+    "name": "Cynic",
+    "mapsUrl": "https://maps.app.goo.gl/x8wPndHwVRd9AFPj6",
+    "lat": 45.812407077120135,
+    "lng": 15.986022397650942
+  },
+  {
+    "id": "boban",
+    "name": "Boban",
+    "mapsUrl": "https://maps.app.goo.gl/UeccBPkxH2c6PFz37",
+    "lat": 45.81172720055014,
+    "lng": 15.976453268814579
+  },
+  {
     "id": "201-studio",
     "name": "201 studio",
     "mapsUrl": "https://maps.app.goo.gl/toDaSJLRSLGeyFqP7",

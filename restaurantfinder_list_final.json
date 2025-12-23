@@ -1,5 +1,26 @@
 [
   {
+    "id": "soparnik-to-go",
+    "name": "Soparnik to go",
+    "mapsUrl": "https://maps.app.goo.gl/y6qHwAKTxSAbqYfZ7",
+    "lat": 45.80930995585664,
+    "lng": 15.979951452362917
+  },
+  {
+    "id": "tajer",
+    "name": "Tajer",
+    "mapsUrl": "https://maps.app.goo.gl/8xG9XxDjcEKhYuKL9",
+    "lat": 45.81440693943183,
+    "lng": 16.00649121187934
+  },
+  {
+    "id": "didov-san",
+    "name": "Didov san",
+    "mapsUrl": "https://maps.app.goo.gl/fLRsPmMMjNR49StX8",
+    "lat": 45.81765924173045,
+    "lng": 15.973262271164868
+  },
+  {
     "id": "elef",
     "name": "el Ef",
     "mapsUrl": "https://maps.app.goo.gl/Am6D9ozgaosz94qP6",

@@ -1,5 +1,19 @@
 [
   {
+    "id": "pizzeria-14",
+    "name": "Pizzeria 14",
+    "mapsUrl": "https://maps.app.goo.gl/7bPp6J7BfUtvUQGY8",
+    "lat": 45.80365093270082,
+    "lng": 15.958928494824846
+  },
+  {
+    "id": "bekal-2",
+    "name": "Bekal",
+    "mapsUrl": "https://maps.app.goo.gl/6yT2GHcQ5MrN93aN6",
+    "lat": 45.79260238654628,
+    "lng": 15.954145825510166
+  },
+  {
     "id": "soparnik-to-go",
     "name": "Soparnik to go",
     "mapsUrl": "https://maps.app.goo.gl/y6qHwAKTxSAbqYfZ7",
